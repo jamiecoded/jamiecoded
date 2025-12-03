@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="./coding.gif" width="50%" lt="banner">
+  <img src="./BANNER.gif" width="100%" lt="banner">
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
