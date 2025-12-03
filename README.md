@@ -15,7 +15,7 @@
 
 <hr>
 
-<h3 align="center">Web Developer | AI-Driven Solutions | Graphic Design</h3>
+<h3 align="center">Full-stack Developer | AI-Driven | Graphic Designer</h3>
 
 <div align="center">
   🌱 Working across the full stack + integrating AI into real user workflows<br/>
