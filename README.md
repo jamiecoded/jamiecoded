@@ -28,7 +28,7 @@
 <h3 align="center">🔹CONTACT ME🔹</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jameshere/" target="_blank">
+  <a href="https://www.linkedin.com/in/jameshere/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="mailto:sanjames.dev@gmail.com" target="_blank">
