@@ -62,22 +62,22 @@
     <td align="center" valign="top" width="50%">
       <!-- GitHub Streak -->
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=jamiecoded&theme=dark" 
         alt="GitHub Streak" 
         width="390"
       />
       <br/><br/>
       <!-- Awesome GitHub Stats -->
       <img 
-        src="https://awesome-github-stats.azurewebsites.net/user-stats/hoangsonww?cardType=level&theme=radical&preferLogin=false" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamiecoded&theme=dark" alt="Hoang Son's GitHub Achievements"
         alt="My Awesome Stats"
-        width="300"
+        width="400"
       />
     </td>
     <!-- RIGHT COLUMN -->
     <td align="center" valign="top" width="50%">
       <img 
-        src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" 
+        src="https://github-contribution-stats.vercel.app/api/?username=jamiecoded&theme=radical&layout=compact" 
         alt="GitHub Contributions" 
         width="390"
       />
