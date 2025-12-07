@@ -13,7 +13,6 @@
   </a>
 </div>
 
-<hr>
 
 <h3 align="center">Full-Stack Developer | AI-Driven | Graphic Designer</h3>
 
@@ -26,7 +25,7 @@
 
 <br/>
 
-<h3 align="center">🌐 SOCIALS</h3>
+<h3 align="center">🔹SOCIALS🔹</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/santoshjames/" target="_blank">
@@ -44,7 +43,7 @@
 <hr>
 
 
-<h3 align="center">👾 TECH STACK</h3>
+<h3 align="center">🔹TECH STACK🔹</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -55,20 +54,33 @@
 <br/>
 <hr>
 
-<h3 align="center">⚡ GITHUB STATS</h3>
+<h3 align="center">🔹GITHUB STATS🔹</h3>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      width="390"
-      src="https://streak-stats.demolab.com?user=Santosh-James&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&background=45%2C000000%2C175307&ring=10FF00&fire=1DB100&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D3FFCE&dates=A5EB82&sideLabels=D3FFCE"
-      alt="GitHub Streak"
-    />
-  </a>
-
-  <img
-    width="390"
-    src="https://github-readme-stats.vercel.app/api?username=santosh-james&theme=gotham&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-</div>
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td align="center" valign="top" width="50%">
+      <!-- GitHub Streak -->
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical" 
+        alt="GitHub Streak" 
+        width="390"
+      />
+      <br/><br/>
+      <!-- Awesome GitHub Stats -->
+      <img 
+        src="https://awesome-github-stats.azurewebsites.net/user-stats/hoangsonww?cardType=level&theme=radical&preferLogin=false" 
+        alt="My Awesome Stats"
+        width="300"
+      />
+    </td>
+    <!-- RIGHT COLUMN -->
+    <td align="center" valign="top" width="50%">
+      <img 
+        src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" 
+        alt="GitHub Contributions" 
+        width="390"
+      />
+    </td>
+  </tr>
+</table>
