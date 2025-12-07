@@ -19,13 +19,13 @@
 <div align="center">
   🌱 Working across the full stack + integrating AI into real user workflows<br/>
   💬 Skilled in: Web Dev, AI-powered automations & bit of graphic design<br/>
-  📫 Reach me at: <b>sanjames.dev@gmail.com</b><br/>
   🚀 I build clean, efficient, and user-focused digital experiences
 </div>
 
 <br/>
 
-<h3 align="center">🔹SOCIALS🔹</h3>
+
+<h3 align="center">🔹CONTACT ME🔹</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/santoshjames/" target="_blank">
@@ -40,7 +40,9 @@
 </div>
 
 <br/>
-<hr>
+<div align="center">
+  <img src="./line4.gif" width="100%" alt="animated line">
+</div>
 
 
 <h3 align="center">🔹TECH STACK🔹</h3>
@@ -52,7 +54,9 @@
 </p>
 
 <br/>
-<hr>
+<div align="center">
+  <img src="./line4.gif" width="100%" alt="animated line">
+</div>
 
 <h3 align="center">🔹GITHUB STATS🔹</h3>
 
