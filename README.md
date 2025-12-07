@@ -28,13 +28,13 @@
 <h3 align="center">🔹CONTACT ME🔹</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/santoshjames/" target="_blank">
+  <a href="https://www.linkedin.com/in/jameshere/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="mailto:santoshjamesofficial@gmail.com" target="_blank">
+  <a href="mailto:sanjames.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
-  <a href="https://twitter.com/notcadburyjames" target="_blank">
+  <a href="https://twitter.com/jamiedotio" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter">
   </a>
 </div>
